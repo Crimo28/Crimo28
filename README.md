@@ -1,6 +1,5 @@
 Hola amigo 👋
 
-<!--
 Soy Crimo28, aunque en realidad me llamo Manuel Criado.
 
 Estás son algunas de las cosas que hago y que me gustan:
